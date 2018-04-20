@@ -73,7 +73,7 @@ textarea{
     background-color: rgb(224, 121, 80);
 }
 
-.oneThird{
+.halfHalf{
     width:97%;
     height: auto;
     margin: 1%;
@@ -85,19 +85,19 @@ textarea{
     box-shadow: 2px 3px 2px grey;
 }
 
-.oneThird img{
+.halfHalf img{
     max-width: 60%;
     margin-left:20%;
     margin-right:20%;
     margin-top:12%;
 }
-.oneThird img:hover{
+.halfHalf img:hover{
     margin-top:10%;
     outline: 5px dotted orange;
     outline-offset: -2px;
 }
 
-.oneThird span{
+.halfHalf span{
     background-color: orange;
     color:white;
     border-top-left-radius: 10px;
@@ -132,6 +132,14 @@ textarea{
 }
 .navbar{
     background-color: rgb(80, 80, 80) !important;
+}
+.navbar-toggler-icon{
+    background-color: orange;
+    width:2em;
+    height:2em;
+}
+.navbar-toggler{
+    background-color: orange !important;
 }
 .row{
     padding:1.2em;
