@@ -74,10 +74,12 @@ textarea{
 }
 
 .oneThird{
-    width:30%;
-    height: 260px;
+    width:97%;
+    height: auto;
     margin: 1%;
     padding:0.5%;
+    padding-bottom: 5%;
+    margin-bottom: 8%;
     float:left;
     background-color:white;
     box-shadow: 2px 3px 2px grey;
@@ -136,6 +138,10 @@ textarea{
     margin-top: 8em;
     background-color:rgba(211, 211, 211, 0.85)
 }
+.col-lg-6{
+    float:left;
+}
+
 @media (min-width: 368px) {
     .navbar-nav {
       width: 100%;
