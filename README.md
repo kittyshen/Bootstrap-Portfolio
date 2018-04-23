@@ -23,7 +23,7 @@ Spending time to get familiar with the bootstrap framework and research on diffr
 Download the zip file, unzip on the desktop, open index.html
 
 ## Link to the site
-[Click me](https://kittyshen.github.io/Basic-Portfolio/)
+[Click me](https://kittyshen.github.io/Bootstrap-Portfolio/)
 
 ## Author 
 [Kitty Shen ](https://github.com/kittyshen)
