@@ -4,6 +4,7 @@ Using BootStrap framework and HTML CSS to recreat the basic portfolio page
 
 ## Code Example
 alter the bootstrap Css file by overwrite it with cusomized css, follwing code example is used to make the navigation float to the right part of the screen
+`
 @media (min-width:980px){
     .navbar-nav, .navbar-nav > li, .navbar-nav > li.nav-item, li.nav-item > a.nav-link{
     float:right !important;
@@ -12,6 +13,7 @@ alter the bootstrap Css file by overwrite it with cusomized css, follwing code e
     margin-right:3%;
     }
 }
+`
 
 ## Motivation
 Spending time to get familiar with the bootstrap framework and research on diffrent class you can call to adjust the page to user's requirement. 
